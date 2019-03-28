@@ -7,6 +7,10 @@ the number of points in the circle divided by the total number of points will gi
 multiply this by 4 and we'll get an approximation for pi
 increasing the number of points increases the accuracy to a point, but gives diminishing returns over 10000 points
 
+This version of the program is hiddeously formatted, violates many Python conventions and the PEP8 coding standards.
+Try to clean it up so it meets PEP8.
+
+Thanks for everyone on the UKRSE slack channel for their suggestions about how to make this code extra hiddeous.
 """
 import random
 from numpy import *
