@@ -8,4 +8,4 @@ Created on Thu Mar 28 14:49:04 2019
 
 import pi_refactored
 
-pi_refactored.calculate_pi(10000)
+print("The value of pi is", pi_refactored.calculate_pi(10000))
